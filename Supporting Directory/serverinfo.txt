@@ -1,0 +1,10 @@
+username===root
+password===
+db_name===estrange
+server_base_path===./public_html/
+human_lang===en
+min_percentage_collab_score===0.5
+max_percentage_collab_score===0.8
+java_run_command===java
+python_run_command===python3.6
+min_similarity_threshold===0.75
